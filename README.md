@@ -7,6 +7,7 @@ This repository is for the Digital Carb Sync Shield project. The shield is desig
 and other compatible boards.
 
 The software is licensed under the MIT model.
+The hardware is licensed using Open Hardware License.
 
 The shield reads up to 6 vacuum pressure sensors on A0-5 and displays running peaks.
 
