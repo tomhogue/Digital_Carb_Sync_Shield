@@ -22,3 +22,15 @@ This LCD comes with a header strip which reduces the need for headers on
 the BOM. It also comes with a trimmer pot the board is NOT designed for.
 
 https://www.adafruit.com/products/181
+
+More information and history at
+
+http://www.venturerider.org/forum/showthread.php?90191-New-digital-carb-sync-board
+
+and its evolution from old auto parts
+
+http://www.venturerider.org/forum/showthread.php?73158-Built-a-digital-carb-sync
+
+and for Honda Valkyrie riders
+
+http://www.valkyrieforum.com/bbs/index.php/topic,73795.0.html
