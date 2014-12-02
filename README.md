@@ -1,4 +1,4 @@
-Digital_Carb_Sync_Shield
+Digital Carb Sync Shield
 ========================
 
 Motorcycle carburetor synchronization. Analog sensors. LCD display.
