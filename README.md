@@ -13,7 +13,7 @@ The shield reads up to 6 vacuum pressure sensors on A0-5 and displays running pe
 
 There is a calibration step to average the analog inputs. This is to compensate for build quality issues.
 
-Bill of Materials
+###Bill of Materials#
 
 Partial BOM sourced at Digi-Key. Shop around.
 
