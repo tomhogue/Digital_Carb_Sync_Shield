@@ -15,6 +15,8 @@ There is a calibration step to average the analog inputs. This is to compensate 
 
 ###Bill of Materials#
 
+Some PCB boards may be available to GitHub collaborators.
+
 Partial BOM sourced at Digi-Key. Shop around.
 
 Also requires 16x2 LCD such as this standard LCD from Adafruit. NOTE:
