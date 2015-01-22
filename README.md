@@ -19,10 +19,6 @@ Some PCB boards may be available to GitHub collaborators.
 
 Partial BOM sourced at Digi-Key. Shop around.
 
-Also requires 16x2 LCD such as this standard LCD from Adafruit. NOTE:
-This LCD comes with a header strip which reduces the need for headers on
-the BOM. It also comes with a trimmer pot the board is NOT designed for. https://www.adafruit.com/products/181
-
 ###More information and history at#
 
 http://www.venturerider.org/forum/showthread.php?90191-New-digital-carb-sync-board
