@@ -30,3 +30,4 @@ http://www.venturerider.org/forum/showthread.php?73158-Built-a-digital-carb-sync
 and for Honda Valkyrie riders
 
 http://www.valkyrieforum.com/bbs/index.php/topic,73795.0.html
+http://www.valkyrieforum.com/bbs/index.php/topic,74909.msg733596.html#msg733596
