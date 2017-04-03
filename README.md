@@ -1,6 +1,8 @@
 Digital Carb Sync Shield
 ========================
 
+Also visit https://digitalcarbsync.com
+
 Motorcycle carburetor synchronization. Analog sensors. LCD display. Easy to build. Wiki.
 
 This repository is for the Digital Carb Sync Shield project. The shield is designed for the Arduino UNO R3
