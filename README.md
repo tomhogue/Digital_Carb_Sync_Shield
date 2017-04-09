@@ -1,7 +1,7 @@
 Digital Carb Sync Shield
 ========================
 
-Also visit https://digitalcarbsync.com
+For the latest version and organization visit https://digitalcarbsync.com
 
 Motorcycle carburetor synchronization. Analog sensors. LCD display. Easy to build. Wiki.
 
